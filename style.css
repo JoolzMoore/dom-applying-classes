@@ -29,11 +29,11 @@ div.yellow {
   background-color: yellow;
 }
 
-.invisible {
+div.invisible {
   display: none;
 }
 
-.visible {
+div.visible {
   display: block;
   border: 3px black dashed;
   border-radius: 0;
